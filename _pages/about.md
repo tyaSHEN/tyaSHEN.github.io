@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>tianyu.shen@anu.edu.au</p>
+    <p>4.56</p>
     <p>146 Ellery Cres</p>
     <p>Acton, ACT 2601</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Tianyu Shen is a Ph.D. student in the School of Demography at the ANU. His Ph.D. project centres on the analysis of social inequalities in health in the Asia Pacific region and the development of multistate models to capture population dynamics. He completed the Master of Social Research in 2020 at the ANU and has since been a research assistance in the School of Demography. He was involved in “State Population Projections Model for the Centre for Population”, “ACT Treasury population projections”, “Overcoming the problems of inconsistent migration data in the Asia Pacific” and "ACT School enrollment projection".
