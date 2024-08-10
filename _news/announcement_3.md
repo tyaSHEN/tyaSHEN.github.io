@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented our paper on [duration dependence in multistate life expectancy](http://epc2024.eaps.nl/abstracts/240418) at European Population Conference 2024 in Edinburgh 
