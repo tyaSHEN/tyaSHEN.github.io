@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'>ANU</a> 
+subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'>Australian National University</a> 
 
 profile:
   align: right

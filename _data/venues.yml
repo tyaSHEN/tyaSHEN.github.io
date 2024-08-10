@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"Pop Studies":
+  url: https://www.tandfonline.com/journals/rpst20
+  color: "#E56717"
+
+"Demography":
+  url: https://read.dukeupress.edu/demography
+  color: "#7499b3"
