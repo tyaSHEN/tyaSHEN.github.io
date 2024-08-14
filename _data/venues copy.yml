@@ -1,0 +1,27 @@
+"Mig Studies":
+  url: https://academic.oup.com/migration
+  color: "#0a643b"
+
+"SSM-PH":
+  url: https://www.sciencedirect.com/journal/ssm-population-health
+  color: "#bf961a"
+
+"PSP":
+  url: https://onlinelibrary.wiley.com/journal/15448452
+  color: "#014476"
+
+"Pop Studies":
+  url: https://www.tandfonline.com/journals/rpst20
+  color: "#7499b3"
+
+"Demography":
+  url: https://read.dukeupress.edu/demography
+  color: "#E56717"
+
+"Dem Res":
+  url: https://www.demographic-research.org
+  color: "#162841"
+
+"SMR"
+  url: https://journals.sagepub.com/home/SMR
+  color: "#8e8288"
