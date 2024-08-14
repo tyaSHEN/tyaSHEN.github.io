@@ -1,30 +1,31 @@
 "Shen":
   - firstname: ["Tianyu", "T."]
+    url: https://researchportalplus.anu.edu.au/en/persons/tianyu-shen
 
 "Riffe":
   - firstname: ["Tim", "T.", "Timothy"]
 
 "Payne":
   - firstname: ["Collin F.", "C. F."]
+    url: https://researchportalplus.anu.edu.au/en/persons/collin-payne
 
 "Canudas-Romo":
   - firstname: ["Vladimir", "V."]
+    url: https://researchportalplus.anu.edu.au/en/persons/vladimir-canudas-romo
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Raymer":
+  - firstname: ["James","J."]
+    url: https://researchportalplus.anu.edu.au/en/persons/james-raymer
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Qing":
+  - firstname: ["Guan","G."]
+    url: https://researchportalplus.anu.edu.au/en/persons/qing-guan
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Wiśniowski":
+  - firstname: ["A."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Lazzari":
+  - firstname: ["E."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Pietsch":
+  - firstname: ["J."]
