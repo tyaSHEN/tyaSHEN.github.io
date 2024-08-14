@@ -17,3 +17,11 @@
 "Demography":
   url: https://read.dukeupress.edu/demography
   color: "#E56717"
+
+"Mig Studies":
+  url: https://academic.oup.com/migration
+  color: "#0a643b"
+
+"Dem Res":
+  url: https://www.demographic-research.org
+  color: "#162841"
