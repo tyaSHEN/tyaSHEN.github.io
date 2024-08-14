@@ -1,3 +1,13 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Vision":
+  color: "#009f36"
+
 "Mig Studies":
   url: https://academic.oup.com/migration
   color: "#0a643b"
