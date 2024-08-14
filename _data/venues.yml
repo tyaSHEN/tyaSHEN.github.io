@@ -1,6 +1,6 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"PSP":
+  url: https://onlinelibrary.wiley.com/journal/15448452
+  color: "#014476"
 
 "PhysRev":
   url: https://journals.aps.org/
@@ -15,15 +15,3 @@
 "Demography":
   url: https://read.dukeupress.edu/demography
   color: "#E56717"
-
-"PSP":
-  url: https://onlinelibrary.wiley.com/journal/15448452
-  color: "#014476"
-
-"SMR"
-  url: https://journals.sagepub.com/home/SMR
-  color: "#8e8288"
-
-"SSM-PH":
-  url: https://www.sciencedirect.com/journal/ssm-population-health
-  color: "#bf961a"
