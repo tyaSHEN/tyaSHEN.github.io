@@ -5,11 +5,21 @@
   }
   .news-button-container button {
     padding: 10px 20px;
-    background-color: #000000;
-    color: white;
-    border: none;
-    border-radius: 5px;
+    background-color: transparent; /* No background */
+    color: black; /* Default color for light mode */
+    border: none; /* No border */
     cursor: pointer;
+    border-radius: 5px; /* Optional: keep the border radius */
+  }
+  /* Dark mode styles */
+  @media (prefers-color-scheme: dark) {
+    .news-button-container button {
+      color: white; /* Text color for dark mode */
+    }
+  }
+  /* Optional: Hover effect */
+  .news-button-container button:hover {
+    opacity: 0.8; /* Slightly change opacity on hover */
   }
 </style>
 
