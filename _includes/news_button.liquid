@@ -1,6 +1,6 @@
 <style>
   .news-button-container {
-    text-align: center;
+    text-align: left;
     margin: 10px 0;
   }
   .news-button-container button {
@@ -17,6 +17,12 @@
       color: white; /* Text color for dark mode */
     }
   }
+  /* Light mode styles */
+  @media (prefers-color-scheme: light) {
+    .news-button-container button {
+      color: black; /* Text color for light mode */
+    }
+  }
   /* Optional: Hover effect */
   .news-button-container button:hover {
     opacity: 0.8; /* Slightly change opacity on hover */
@@ -25,7 +31,7 @@
 
 
 <div class="news-button-container">
-  <button onclick="scrollToNews()">More</button>
+  <button onclick="scrollToNews()">More>>></button>
 </div>
 
 <script>
