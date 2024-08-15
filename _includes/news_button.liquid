@@ -1,0 +1,30 @@
+<style>
+  .news-button-container {
+    text-align: center;
+    margin: 10px 0;
+  }
+  .news-button-container button {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+
+
+<div class="news-button-container">
+  <button onclick="scrollToNews()">More</button>
+</div>
+
+<script>
+function scrollToNews() {
+  const newsSection = document.getElementById('news');
+  if (newsSection) {
+    newsSection.scrollIntoView({behavior: 'smooth'});
+  } else {
+    window.location.href = '{{ site.baseurl }}/news/';
+  }
+}
+</script>
