@@ -167,7 +167,7 @@
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
     {% endif -%}
 {% if entry.additional_info %}
-  {% capture entryinfo %}, {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+  {% capture entryinfo %}. {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
 {% else %}
   {% capture entryinfo %}.{% endcapture %}
 {% endif %}
