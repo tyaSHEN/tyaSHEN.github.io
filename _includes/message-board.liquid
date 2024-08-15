@@ -1,0 +1,18 @@
+<div class="message-board">
+  {% for message in messages %}
+    <div class="message">
+      <h3>{{ message.name }}</h3>
+      <p>{{ message.content }}</p>
+      <small>Posted on: {{ message.date | date: "%B %d, %Y at %I:%M %p" }}</small>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  // This is a placeholder. In a real application, you'd handle form submission
+  // with server-side code or an API call.
+  document.getElementById('message-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    alert('Message submitted! (This is a demo - no actual submission occurred)');
+  });
+</script>
