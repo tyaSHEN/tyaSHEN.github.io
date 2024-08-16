@@ -3,8 +3,6 @@
 
 {% assign messages = site.data.messages %}
 
-<h2>Message Board</h2>
-
 <form action="#" method="post" id="message-form">
   <input type="text" name="name" placeholder="Your Name" required>
   <textarea name="message" placeholder="Your Message" required></textarea>
@@ -12,10 +10,12 @@
 </form>
 
 
+<h3>message board</h3>
+
 <div class="message-board">
   {% for message in messages %}
     <div class="message">
-      <h3>{{ message.name }}</h3>
+      <h4>{{ message.name }}</h4>
       <p>{{ message.content }}</p>
       <small>Posted on: {{ message.date | date: "%B %d, %Y at %I:%M %p" }}</small>
     </div>

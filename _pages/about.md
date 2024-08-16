@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'>Australian National University</a> 
 

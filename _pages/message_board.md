@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leave your message
+title: Your message
 permalink: /message/
 nav: true
 nav_order: 4
