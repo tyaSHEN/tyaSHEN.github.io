@@ -2,7 +2,7 @@
 layout: page
 title: Your message
 permalink: /message/
-nav: true
+nav: false
 nav_order: 4
 ---
 
