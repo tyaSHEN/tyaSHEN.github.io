@@ -1,13 +1,25 @@
 <style>
+  :root {
+    --text-color: black;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-color: white;
+    }
+  }
+
   .news-button-container {
     text-align: left;
     margin: 10px 0;
   }
+
   .news-button-container button {
     padding: 10px 20px;
-    border: none; /* No border */
+    border: none;
     cursor: pointer;
-    border-radius: 5px; /* Optional: keep the border radius */
+    border-radius: 5px;
+    color: var(--text-color);
   }
 </style>
 
