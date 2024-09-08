@@ -25,3 +25,7 @@
 "Dem Res":
   url: https://www.demographic-research.org
   color: "#162841"
+
+"JRSSSA":
+  url: https://academic.oup.com/jrsssa
+  color: "#1e5a4f"
