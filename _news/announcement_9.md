@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Completed my <a href="https://demography.cass.anu.edu.au/events/living-longer-and-healthier-advancement-methodology-and-understanding-health-expectancy"> **final oral presentation**</a> of my PhD. Hooray :sparkles: :smile:
+Completed the <a href="https://demography.cass.anu.edu.au/events/living-longer-and-healthier-advancement-methodology-and-understanding-health-expectancy"> **final presentation**</a> for my PhD. Hooray :sparkles: :smile:
 
