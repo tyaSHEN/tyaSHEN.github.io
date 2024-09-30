@@ -29,3 +29,7 @@
 "JRSSSA":
   url: https://academic.oup.com/jrsssa
   color: "#1e5a4f"
+
+"UNPD":
+  url: https://www.un.org/development/desa/pd/unite-web-topic/technical-paper
+  color: "#009edb"
