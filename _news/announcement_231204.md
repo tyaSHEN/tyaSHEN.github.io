@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended the <a href="https://www.oeaw.ac.at/vid/events/winter-school" style="color: inherit; text-decoration: none;">**Winter School on Population Heterogeneity**</a> in Vienna and presented in the WITTGENSTEIN Center Conference 2023: <a href="https://www.oeaw.ac.at/vid/events/calendar/conferences/exploring-population-heterogeneities" style="color: inherit; text-decoration: none;">*Exploring Population Heterogeneities*
+Attended the <a href="https://www.oeaw.ac.at/vid/events/winter-school" style="color: inherit; text-decoration: none;">**Winter School on Population Heterogeneity**</a> in Vienna and presented at the WITTGENSTEIN Center Conference 2023: <a href="https://www.oeaw.ac.at/vid/events/calendar/conferences/exploring-population-heterogeneities" style="color: inherit; text-decoration: none;">*Exploring Population Heterogeneities*
