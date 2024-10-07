@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Made a public talk on <a href="https://www.youtube.com/watch?v=xPscZoWZnOU" style="color: inherit; text-decoration: none;">* healthy life expectancy and its decomposition*</a> at the Formal Demography Working Group
+Made a public talk on <a href="https://www.youtube.com/watch?v=xPscZoWZnOU" style="color: inherit; text-decoration: none;">*Healthy Life Expectancy and its Decomposition*</a> at the **Formal Demography Working Group**
