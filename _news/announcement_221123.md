@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our paper on *Disability and morbidity among US birth cohorts, 1998–2018: A multidimensional test of dynamic equilibrium theory*</a> at 2022 Australian Population Association Conference in Canberra, Australia
+Presented our paper on *Disability and morbidity among US birth cohorts, 1998–2018: A multidimensional test of dynamic equilibrium theory* at 2022 Australian Population Association Conference in Canberra, Australia
