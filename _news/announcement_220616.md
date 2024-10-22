@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
+Attended my first conference :sparkles:
+
 Presented our paper on <a href="https://www.mortality.org/Research/Events" style="color: inherit; text-decoration: none;">*The contribution of subnational changes in the national population growth*</a> at 6th Symposium of the Human Mortality Database in Paris, France
