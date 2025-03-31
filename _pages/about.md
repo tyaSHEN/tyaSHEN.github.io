@@ -6,7 +6,7 @@ subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tianyu.Shen@oeaw.ac.at</p>
