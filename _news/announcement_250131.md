@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally, I am a Doctor now :tada: :tada:
+Finally, I am a Dr. now :tada: :tada:

@@ -37,3 +37,7 @@
 "BMC-PH":
   url: https://bmcpublichealth.biomedcentral.com
   Color: "#1b2f51"
+
+"AJE":
+  url: https://academic.oup.com/aje
+  Color: "#253785"
