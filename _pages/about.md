@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Tianyu.Shen@oeaw.ac.at</p>
     <p>Dominikanerbastei 16</p>
-    <p1010 Vienna, Austria</p>
+    <p>1010 Vienna, Austria</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
