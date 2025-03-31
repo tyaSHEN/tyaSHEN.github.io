@@ -2,25 +2,25 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'>Australian National University</a> 
+subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'>Vienna Institute of Demography, Austrian Academy of Sciences</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Tianyu.Shen@anu.edu.au</p>
-    <p>146 Ellery Cres</p>
-    <p>Acton, ACT 2601 Australia</p>
+    <p>Tianyu.Shen@oeaw.ac.at</p>
+    <p>Postsparkasse, Dominikanerbastei 16</p>
+    <p1010 Vienna, Austria</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. student in the School of Demography at the Australian National University. My project centres on the analysis of **social inequalities in health** in the Asia Pacific region and **the development of multistate models** to capture population dynamics. 
+I'm a postdoc researcher in the VID. I completed his doctoral degree in 2025 at the Australian National University with the dissertation on “Living Longer and Healthier? An Advancement of Methodology and Understanding on Health Expectancy”. My project centres on the analysis of **social inequalities in health** and **multistate models** to capture population dynamics. 
 
-I completed the Master of Social Research in 2020 at the ANU and has since been a research assistance in the School of Demography. I was involved in multiple projects including “State Population Projections Model for the Centre for Population”, “ACT Treasury population projections”, “Overcoming the problems of inconsistent migration data in the Asia Pacific” and "ACT School enrollment projection".
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
