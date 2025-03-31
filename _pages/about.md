@@ -6,11 +6,11 @@ subtitle: <a href='https://researchportalplus.anu.edu.au/en/persons/tianyu-shen'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tianyu.Shen@oeaw.ac.at</p>
-    <p>Postsparkasse, Dominikanerbastei 16</p>
+    <p>Dominikanerbastei 16</p>
     <p1010 Vienna, Austria</p>
 
 news: true # includes a list of news items
