@@ -18,10 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a postdoc researcher at the VID. I completed his doctoral degree in 2025 at the Australian National University with the dissertation on “Living Longer and Healthier? An Advancement of Methodology and Understanding on Health Expectancy”. My research centres on the analysis of **social inequalities in health** and **multistate modelling** to capture population dynamics. 
+I'm a postdoc researcher at the VID. I completed my doctoral degree in 2025 at the Australian National University with the dissertation on “Living Longer and Healthier? An Advancement of Methodology and Understanding on Health Expectancy”. My research centres on the analysis of **social inequalities in health** and **multistate modelling** to capture population dynamics. 
 
-I have done a bit of consulting work for the government on population projection, including “ACT population projections”, and "ACT School enrollment projection". I am also interested in various of indirect estimation methods.
-
+I’ve also done some consulting work for the government on population projections, like “ACT population projections” and “ACT School enrollment projection”. I’m also interested in different indirect estimation methods.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 # 
