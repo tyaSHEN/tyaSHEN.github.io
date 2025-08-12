@@ -40,10 +40,13 @@
   - firstname: ["Caroline","C."]
 
 "Baptista":
-  - firstname: ["Emerson Augusto","E.A."]
+  - firstname: ["Emerson Augusto","E. A. "]
 
 "O'Donnell":
   - firstname: ["James","J."]
 
 "Van Raalte":
   - firstname: ["Alyson","A."]
+
+"Liwin":
+  - firstname: ["L.K."]
